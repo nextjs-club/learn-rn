@@ -1,4 +1,5 @@
 ####setup
++ http://reactnative.cn/
 + [http://ban.ninja/](http://ban.ninja/)
 + brew
 + node
